@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fermanpre.
 
-- 👀 I’m interested in working as a data analyst.
+- 👀 I’m interested in business intelligence and working as a data analyst.
 
 - 🌱 I’m currently learning Python and SQL.
 
